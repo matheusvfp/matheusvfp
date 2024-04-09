@@ -7,7 +7,7 @@
 
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvfp&show_icons=true&theme=dracula)
+
 
 ## Tecnologias
 
