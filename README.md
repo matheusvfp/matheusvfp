@@ -43,3 +43,5 @@
 
 ## 🙎‍♂️ Sobre Mim
 Entusiasta de inovação, aprendizado e comprometido em impactar positivamente a vida das pessoas por meio da tecnologia. 👨‍💻✨
+
+![snake gif](https://github.com/matheusvfp/matheusvfp/blob/output/github-contribution-grid-snake.svg)
