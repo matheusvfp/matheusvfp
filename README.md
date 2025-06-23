@@ -1,7 +1,7 @@
 
 ## Olá, eu sou {Matheus}!
 
-🔭 Sou um programador com interesse na área de QA, em constante busca por aprendizado e aprimoramento.
+🔭 Sou um programador com interesse na área **Automação de Processos**, **Desenvolvimento Web** e **Análise de Dados**, em constante busca por aprendizado e aprimoramento.
 
 💬 Aqui desenvolvo alguns projetos de estudos.
 
